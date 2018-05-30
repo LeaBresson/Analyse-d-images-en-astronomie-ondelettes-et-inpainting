@@ -1,6 +1,6 @@
 # Analyse d'images en astronomie: ondelettes et inpainting
 
-Project of compressed sensing - ENSAE | M2 Data science
+Project of compressed sensing - ENSAE | M2 Data science (lecturer: Guillaume Lecué)
 
 ## Contexte
 Le problème des données manquantes est récurrent dans le domaine de l'astronomie. En effet, les images issues des microscopes souffrent souvent de "zones d'ombres" (mauvaise qualité de l'image, mauvaise calibration, etc.). Les techniques d'inpainting consistent à "remplir" ces zones masquées.
